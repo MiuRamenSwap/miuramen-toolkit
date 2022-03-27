@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["./src"]
+      }
+    }
+  },
+  "env": {
+    "es6": true,
+    "jest": true
+  },
+  "extends": "@miuramenswap/eslint-config-miuramen",
+  "rules": {
+    "no-console": ["warn", { "allow": ["info", "warn", "error"] }]
+  }
+}

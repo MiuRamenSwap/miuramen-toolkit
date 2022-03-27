@@ -1,0 +1,20 @@
+{
+  "https://tokens.miuramenswap.finance/miuramenswap-default.json": {
+    "name": "MiuRamenSwap Default",
+    "homepage": "https://miuramenswap.finance"
+  },
+  "https://tokens.miuramenswap.finance/miuramenswap-extended.json": {
+    "name": "MiuRamenSwap Extended",
+    "homepage": "https://miuramenswap.finance"
+    
+  },
+  "https://tokens.miuramenswap.finance/miuramenswap-top-100.json": {
+    "name": "MiuRamenSwap Top 100",
+    "homepage": "https://miuramenswap.finance"
+    
+  },
+  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
+    "name": "CoinGecko",
+    "homepage": "https://www.coingecko.com"
+  }
+}
